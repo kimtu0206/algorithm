@@ -1,8 +1,7 @@
 package backJune;
 
 import java.util.Scanner;
-
-public class OXÄûÁî {
+public class OXÃ„Ã»ÃÃ® {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
